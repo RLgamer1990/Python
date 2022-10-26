@@ -1,5 +1,5 @@
 print ("string")
-print("Hello tal")
+print("Hello Gilad")
 
 a = 3
 b = a
